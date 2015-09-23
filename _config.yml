@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            HA
-tagline:          '@hexatomium blog'
-description:      Just some pseudorandom, mildly secure thoughts... 
-url:              http://flatfly.github.io
+title:            AK
+tagline:          '@aok1425 blog'
+description:      Will replace this with something interesting... 
+url:              http://aok1425.github.io
 baseurl:          /
 
 author:
-  name:           'Sven Faw'
-  url:            https://twitter.com/hexatomium
+  name:           'Alexander Ko'
+  url:            https://github.com/aok1425
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/aok1425/aok1425.github.io
