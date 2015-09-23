@@ -1,0 +1,150 @@
+<!doctype html>
+<html>
+    <head>
+        <title>High resolution flyover of Pluto</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <meta name="copyright" content="Copyright 2015 Imgur, Inc." />
+        <meta id="viewport" name="viewport" content="width=600, user-scalable=yes" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1442540032" />
+
+        <style type="text/css">
+            #content, #video {
+                width:  600px;
+                height: 338px;
+            }
+            
+            #chrome, #progress {
+                width: 600px;
+            }
+        </style>
+        
+        <link rel="alternate" type="application/json+oembed" href="http://api.imgur.com/oembed.json?url=http://i.imgur.com/5vdwM8y.gifv" title="High resolution flyover of Pluto" />
+        <link rel="alternate" type="application/xml+oembed" href="http://api.imgur.com/oembed.xml?url=http://i.imgur.com/5vdwM8y.gifv" title="High resolution flyover of Pluto" />
+                
+        <link rel="canonical"                 href="http://i.imgur.com/5vdwM8y.gifv" />
+
+        <meta property="og:site_name"         content="Imgur" />
+        <meta property="og:url"               content="http://i.imgur.com/5vdwM8y.gifv" />
+        <meta property="og:title"             content="High resolution flyover of Pluto" />
+        <meta property="og:type"              content="video.other" />
+        
+                <meta property="og:image"             content="http://i.imgur.com/5vdwM8yh.jpg" />
+        <meta property="og:image:width"       content="600" />
+        <meta property="og:image:height"      content="338" />
+        <meta property="og:description"       content="NASA&#039;s New Horizons spacecraft continues to transmit high resolution imagery back to Earth following its July 14, 2015, flyby of Pluto. This flyby was created by stitching together images from the LORRI (Long Range Reconnaissance Imager) and rendering them on a sphere. The flyby begins with a low-altitude look at Norgay Montes (informal), then flies northward over the boundary between Sputnik Planum (informal) and Cthulhu Regio (informal), before turning and drifting slowly east. The highest resolution images acquired thus far have a resolution of 400 m/pixel. 
+
+Source: http://blogs.nasa.gov/pluto/2015/09/18/art-meets-science-in-new-pluto-aerial-tour/" />
+        <meta property="og:video"             content="http://s.imgur.com/include/flash/gifplayer.swf?imgur_video=http://i.imgur.com/5vdwM8y.mp4&imgur_width=600&imgur_height=338&imgur_url=http://imgur.com/5vdwM8y" />
+        <meta property="og:video:secure_url"  content="https://s.imgur.com/include/flash/gifplayer.swf?imgur_video=https://i.imgur.com/5vdwM8y.mp4&imgur_width=600&imgur_height=338&imgur_url=http://imgur.com/5vdwM8y" />
+        <meta property="og:video:type"        content="application/x-shockwave-flash" />
+        <meta property="og:video:width"       content="500" />
+        <meta property="og:video:height"      content="282" />
+        <meta property="og:video"             content="http://i.imgur.com/5vdwM8y.mp4" />
+        <meta property="og:video:secure_url"  content="https://i.imgur.com/5vdwM8y.mp4" />
+        <meta property="og:video:type"        content="video/mp4" />
+        <meta property="og:video:width"       content="500" />
+        <meta property="og:video:height"      content="282" />
+        
+        
+        <meta name="twitter:site"                       content="@imgur" />
+        <meta name="twitter:creator"                    content="@imgur" />
+        <meta name="twitter:domain"                     content="imgur.com" />
+        <meta name="twitter:app:id:googleplay"          content="com.imgur.mobile" />
+        <meta name="twitter:card"                       content="player" />
+        <meta name="twitter:title"                      content="High resolution flyover of Pluto" />
+        <meta name="twitter:description"                content="NASA&#039;s New Horizons spacecraft continues to transmit high resolution imagery back to Earth following its July 14, 2015, flyby of Pluto. This flyby was created by stitching together images from the LORRI (Long Range Reconnaissance Imager) and rendering them on a sphere. The flyby begins with a low-altitude look at Norgay Montes (informal), then flies northward over the boundary between Sputnik Planum (informal) and Cthulhu Regio (informal), before turning and drifting slowly east. The highest resolution images acquired thus far have a resolution of 400 m/pixel. 
+
+Source: http://blogs.nasa.gov/pluto/2015/09/18/art-meets-science-in-new-pluto-aerial-tour/" />
+        <meta name="twitter:image"                      content="https://i.imgur.com/5vdwM8yh.jpg" />
+        <meta name="twitter:image:src"                  content="https://i.imgur.com/5vdwM8yh.jpg" />
+        <meta name="twitter:player"                     content="https://i.imgur.com/5vdwM8y.gifv?twitter#t" />
+        <meta name="twitter:player:width"               content="600" />
+        <meta name="twitter:player:height"              content="338" />
+        <meta name="twitter:player:stream"              content="https://i.imgur.com/5vdwM8y.mp4" />
+        <meta name="twitter:player:stream:content_type" content="video/mp4">
+        
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1442540032"></script>
+<![endif]-->
+    </head>
+    <body id="body">
+        <div id="content">
+            <script type="text/javascript">
+                window.image        = '5vdwM8y';
+                window.image_size   = '32706026';
+                window.image_width  = '600';
+                window.image_height = '338';
+                window.cdn_url      = '//i.imgur.com';
+                    
+                if(navigator.userAgent.match(/Firefox/)) {
+                    document.body.className = document.body.className + ' firefox';
+                }
+            </script>
+            <div class="vid-container">
+                
+                
+                
+                <div class="post-image">
+    
+
+            <div class="video-container">
+            <script type="text/javascript">
+                var videoItem = {
+                    looping:  true,
+                    width:    600,
+                    height:   338,
+                    size:     32706026,
+                    gifUrl:   '//i.imgur.com/5vdwM8y.gif',
+                    forceGif: false,
+                    hash:     '5vdwM8y'
+                }
+            </script>
+            <video poster="//i.imgur.com/5vdwM8yh.jpg" preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline></video>
+            <div class="video-elements">
+                <source src="//i.imgur.com/5vdwM8y.webm" type="video/webm">
+                <source src="//i.imgur.com/5vdwM8y.mp4" type="video/mp4">
+
+                <object style="width: 600px; height: 338px" type="application/x-shockwave-flash"
+                         data="//s.imgur.com/include/flash/gifplayer.swf?imgur_video=http://i.imgur.com/5vdwM8y.mp4&amp;imgur_width=600&amp;imgur_height=338&amp;imgur_url=">
+                    <param name="movie" value="//s.imgur.com/include/flash/gifplayer.swf?imgur_video=http://i.imgur.com/5vdwM8y.mp4&imgur_width=600&imgur_height=338" />
+                    <param name="allowscriptaccess" value="never" />
+                    <param name="flashvars" value="height=338&amp;width=600" />
+                    <param name="width" value="600" />
+                    <param name="height" value="338" />
+                    <param name="version" value="0" />
+                    <param name="scale" value="scale" />
+                    <param name="salign" value="tl" />
+                    <param name="wmode" value="opaque" />
+                </object>
+            </div>
+            <progress value="0" max="100" min="0"></progress>
+            <div class="video-loader"></div>
+            <script id="script5vdwM8y" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1442540032"></script>
+
+        </div>
+    
+</div>
+
+            </div>
+            <script type="text/javascript">
+            var pixel_url = '//i.imgur.com/imageview.gif?a=5vdwM8y&r=' + encodeURIComponent(document.referrer);
+            var pixel = document.createElement('img');
+            pixel.src = pixel_url;
+            </script>
+            
+            <div id="chrome">
+                <div class="icon">
+                    <a href="//imgur.com/5vdwM8y"><img src="//i.imgur.com/favicon.ico" /></a>
+                </div>
+                <div class="imgur">
+                    <a href="//imgur.com/5vdwM8y">Imgur</a>
+                </div>
+                <div class="controls">
+                    <a href="//imgur.com/download/5vdwM8y">download</a>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1442540032"></script>
+
+    </body>
+</html>

@@ -6,6 +6,6 @@ comments: false
 
 Wow this is awesome.
 
-<img src=http://i.imgur.com/5vdwM8y.gifv>
+<img src=../assets/milky_way.jpg>
 
 <A href=https://github.com/aok1425/stats-tests/blob/master/bayesian.ipynb>Some</A> link
